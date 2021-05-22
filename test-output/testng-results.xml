@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-17T15:50:24 IST" name="Suite" finished-at="2021-05-17T15:51:48 IST" duration-ms="83472">
+    <groups>
+    </groups>
+    <test started-at="2021-05-17T15:50:24 IST" name="ValidationTest" finished-at="2021-05-17T15:50:51 IST" duration-ms="26830">
+      <class name="RealProject.FrameworkProject.Validation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:RealProject.FrameworkProject.Validation@609640d5]" started-at="2021-05-17T15:50:24 IST" name="initialize" finished-at="2021-05-17T15:50:49 IST" duration-ms="24628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="homepageNavigation()[pri:0, instance:RealProject.FrameworkProject.Validation@609640d5]" started-at="2021-05-17T15:50:49 IST" name="homepageNavigation" finished-at="2021-05-17T15:50:49 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigation -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:RealProject.FrameworkProject.Validation@609640d5]" started-at="2021-05-17T15:50:49 IST" name="closeWindow" finished-at="2021-05-17T15:50:51 IST" duration-ms="1971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- RealProject.FrameworkProject.Validation -->
+    </test> <!-- ValidationTest -->
+    <test started-at="2021-05-17T15:50:51 IST" name="homepage" finished-at="2021-05-17T15:51:48 IST" duration-ms="56487">
+      <class name="RealProject.FrameworkProject.HomePage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:RealProject.FrameworkProject.HomePage@a8c1f44]" started-at="2021-05-17T15:50:51 IST" name="initialize" finished-at="2021-05-17T15:51:17 IST" duration-ms="25828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="homepageNavigation(java.lang.String,java.lang.String)[pri:0, instance:RealProject.FrameworkProject.HomePage@a8c1f44]" started-at="2021-05-17T15:51:17 IST" name="homepageNavigation" data-provider="getData" finished-at="2021-05-17T15:51:36 IST" duration-ms="19203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prathapbarkur97@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prastha@9995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigation -->
+        <test-method signature="homepageNavigation(java.lang.String,java.lang.String)[pri:0, instance:RealProject.FrameworkProject.HomePage@a8c1f44]" started-at="2021-05-17T15:51:36 IST" name="homepageNavigation" data-provider="getData" finished-at="2021-05-17T15:51:47 IST" duration-ms="10982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shwethaprathap@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prastha@9995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigation -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:RealProject.FrameworkProject.HomePage@a8c1f44]" started-at="2021-05-17T15:51:47 IST" name="closeWindow" finished-at="2021-05-17T15:51:48 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- RealProject.FrameworkProject.HomePage -->
+    </test> <!-- homepage -->
+  </suite> <!-- Suite -->
+</testng-results>

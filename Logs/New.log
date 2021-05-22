@@ -1,0 +1,5 @@
+15:50:43.614 [main] INFO  RealProject.FrameworkProject.Base - Driver is initialized
+15:50:49.500 [main] INFO  RealProject.FrameworkProject.Base - Getting url
+15:50:49.721 [main] INFO  RealProject.FrameworkProject.Base - Is displaying
+15:51:36.886 [main] DEBUG RealProject.FrameworkProject.Base - Succefully clicked
+15:51:47.869 [main] DEBUG RealProject.FrameworkProject.Base - Succefully clicked
